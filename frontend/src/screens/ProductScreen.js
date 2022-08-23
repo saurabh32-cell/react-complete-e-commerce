@@ -173,7 +173,7 @@ const ProductScreen = ({ history, match }) => {
 												<span className='plus-sign-margin'>
 													<i className='fas fa-shopping-cart'></i>
 												</span>
-												Add To Cart
+												Prebooking room
 											</Button>
 										) : (
 											/* Sold Out button */

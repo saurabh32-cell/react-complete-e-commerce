@@ -116,7 +116,7 @@ const CartScreen = ({ match, location, history }) => {
 								disabled={cartItems.length === 0}
 								onClick={checkoutHandler}
 							>
-								Proceed to Checkout
+								Advanced Payment
 							</Button>
 						</ListGroup.Item>
 					</ListGroup>
